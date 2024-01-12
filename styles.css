@@ -1,0 +1,60 @@
+/* Home Page Styles */
+
+#home-body
+{
+    background-image: url('bg.jpg');
+    /* background-repeat: no-repeat; */
+}
+
+#content {
+    max-width: 700px;
+    margin: auto;
+}
+#content-main
+{
+    padding-left: 180px;
+    
+}
+
+.cards
+{
+    display: grid;
+}
+
+.home-img {
+        width: 50px;
+        height: 550px;
+        padding-left: 350px;
+        padding-right: 70px;       
+}
+
+
+#cards 
+{
+    max-width: 500px;
+    margin: auto;
+}
+
+
+/* About Page Styles */
+
+#about-images
+{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.about-img
+{
+    width: 400px;
+    height: 300px;
+    padding-right: 30px;
+}
+
+#about-body
+{
+    background-image: url('envi bg.jpg');
+    padding-left: 100px;
+    padding-right: 100px;
+}
